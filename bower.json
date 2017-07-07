@@ -1,0 +1,17 @@
+{
+  "name": "mqtt-browser-ws",
+  "homepage": "https://github.com/chenhuang511/mqtt-browser-ws",
+  "authors": [
+    "chen <hoangtd.ptd@gmail.com>"
+  ],
+  "description": "libs for bower",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
